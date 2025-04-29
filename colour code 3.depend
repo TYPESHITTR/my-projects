@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745867591 source:c:\users\sogbetun richard\downloads\telegram desktop\colour code 3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
